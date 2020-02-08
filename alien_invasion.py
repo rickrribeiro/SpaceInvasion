@@ -1,6 +1,7 @@
 import sys
 import pygame
 from settings import Settings
+from ship import ship
 
 def run_game():
         # Initialize game and create a screen object.u     
